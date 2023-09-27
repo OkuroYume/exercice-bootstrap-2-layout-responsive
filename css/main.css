@@ -38,3 +38,21 @@ video {
   block-size: auto;
   vertical-align: middle;
 }
+
+.row {
+  background-color: #d8d8d8;
+  margin-bottom: 10px;
+}
+
+.col-12,
+.col-lg-8,
+.col-md-6,
+.col-6,
+.col {
+  padding: 25px;
+  border: 1px #979797 solid;
+}
+
+hr {
+  margin: 20px 0 20px 0;
+}
